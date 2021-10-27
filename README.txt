@@ -1,4 +1,5 @@
 ls /bin
 ls -a /tmp
-ls -a /etc/t* -r
-ls -a /dev/tty??
+ls /etc/t* -r
+ls /dev/tty??`
+ls /dev/tty* |grep [1234]$
