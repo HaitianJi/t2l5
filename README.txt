@@ -5,5 +5,9 @@
 5-ls /dev/tty* |grep [1234]$
 6-ls /dev/t**c1
 7-ls -a
+<<<<<<< HEAD
 8-desde el escritorio etc. hacemos grep -v ^t
 9-ls -lR /usr
+=======
+8-desde el escritorio etc. hacemos grep -v ^t
+>>>>>>> ej1-9
